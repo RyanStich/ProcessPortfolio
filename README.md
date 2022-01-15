@@ -4,6 +4,12 @@ DGL104
 Week 1: Research
 
 Textbook Technologies 
+
+Collaborative editing - https://docs.google.com/
+Team Communication - https://slack.com/
+Review & Grammar - https://app.grammarly.com/
+Licensing - https://opensource.org/licenses/MIT
+
 Since we're creating this project to be open source, with creative freedoms amonst users it would be best to use the MIT license
 https://opensource.org/licenses/MIT
 This license is granted to the user given the current state of the software, stating that there is no warranty of any kind.
