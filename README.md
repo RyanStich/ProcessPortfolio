@@ -68,3 +68,4 @@ Week 3: Reflect
 
 In my own projects I always aim to documentate my code well, but I find that one area I can slack in is within my code comments. Especially when I'm building out my own passion projects in my free time. I always assume that in the future I will remember exactly why I was writing a certain line of code and exactly what it will do, but the future me who ends up dealing with that code is usually less than impressed and a little bit confused. I have learned that coworking with other developers, commentation is arguably one of the most important things and one of the biggest time savers. Although it takes an extra 10 minutes when you’ve completed writing a script, it can ultimately save you hours of annoying pings and headaches that later follow when another developer is trying to make sense of what you’ve written. 
 
+_____________________________________________________________________________________________________________________________
